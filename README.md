@@ -9,10 +9,10 @@ Vite 마이그레이션, Playwright를 이용한 E2E 테스트 자동화 등
 ---
 
 ### ⚙️ Tech
-React · TypeScript · JavaScript· HTML · CSS 
-React-Query · Recoil · Jotai 
-Playwright · Vitest 
-Vite · pnpm 
+- React · TypeScript · JavaScript· HTML · CSS 
+- React-Query · Recoil · Jotai 
+- Playwright · Vitest 
+- Vite · pnpm 
 
 
 
